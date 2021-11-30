@@ -1,0 +1,16 @@
+INFO:root:Start SimCLR training for 200 epochs.
+INFO:root:Training with gpu: cuda.
+DEBUG:root:Epoch: 0	Loss: 5.081977844238281	Top1 accuracy: 7.421875	Top5 accuracy: 7.421875
+DEBUG:root:Epoch: 1	Loss: 4.808199405670166	Top1 accuracy: 13.28125	Top5 accuracy: 13.28125
+DEBUG:root:Epoch: 2	Loss: 4.143977165222168	Top1 accuracy: 26.5625	Top5 accuracy: 26.5625
+DEBUG:root:Epoch: 3	Loss: 3.5390079021453857	Top1 accuracy: 33.203125	Top5 accuracy: 33.203125
+DEBUG:root:Epoch: 4	Loss: 3.1122260093688965	Top1 accuracy: 36.71875	Top5 accuracy: 36.71875
+DEBUG:root:Epoch: 5	Loss: 3.1136672496795654	Top1 accuracy: 50.0	Top5 accuracy: 50.0
+DEBUG:root:Epoch: 6	Loss: 2.8750126361846924	Top1 accuracy: 53.515625	Top5 accuracy: 53.515625
+DEBUG:root:Epoch: 7	Loss: 2.408696413040161	Top1 accuracy: 49.4140625	Top5 accuracy: 49.4140625
+DEBUG:root:Epoch: 8	Loss: 2.4402194023132324	Top1 accuracy: 48.4375	Top5 accuracy: 48.4375
+DEBUG:root:Epoch: 9	Loss: 2.323834180831909	Top1 accuracy: 53.515625	Top5 accuracy: 53.515625
+DEBUG:root:Epoch: 10	Loss: 2.325941562652588	Top1 accuracy: 54.1015625	Top5 accuracy: 54.1015625
+DEBUG:root:Epoch: 11	Loss: 2.423943042755127	Top1 accuracy: 55.46875	Top5 accuracy: 55.46875
+DEBUG:root:Epoch: 12	Loss: 2.4273064136505127	Top1 accuracy: 57.6171875	Top5 accuracy: 57.6171875
+DEBUG:root:Epoch: 13	Loss: 1.82712721824646	Top1 accuracy: 62.6953125	Top5 accuracy: 62.6953125
